@@ -22,4 +22,9 @@ public class DemoApplication {
 		return "resources";
 	}
 
+	@GetMapping("/searchMvc")
+	public String searchMvcExample() {
+		return "searchMvc";
+	}
+
 }
