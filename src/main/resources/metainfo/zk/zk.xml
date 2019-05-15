@@ -11,6 +11,18 @@
 		<richlet-name>ExampleRichlet</richlet-name><!-- your preferred name -->
 		<richlet-class>org.zkoss.zkspringboot.demo.richlet.ExampleRichlet</richlet-class><!-- your class name, of course -->
 	</richlet>
+	<richlet>
+		<richlet-name>CarListTemplate</richlet-name><!-- your preferred name -->
+		<richlet-class>org.zkoss.zkspringboot.demo.richlet.CarListTemplate</richlet-class><!-- your class name, of course -->
+	</richlet>
+	<richlet>
+		<richlet-name>SearchRichlet</richlet-name><!-- your preferred name -->
+		<richlet-class>org.zkoss.zkspringboot.demo.richlet.SearchRichlet</richlet-class><!-- your class name, of course -->
+	</richlet>
+	<richlet>
+		<richlet-name>SearchRichlet</richlet-name><!-- your preferred name -->
+		<richlet-class>org.zkoss.zkspringboot.demo.richlet.SearchRichlet</richlet-class><!-- your class name, of course -->
+	</richlet>
 	<richlet-mapping>
 		<richlet-name>ExampleRichlet</richlet-name>
 		<url-pattern>/richlet/example</url-pattern>

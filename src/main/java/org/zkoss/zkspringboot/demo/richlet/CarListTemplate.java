@@ -1,5 +1,4 @@
-package richlet;
-
+package org.zkoss.zkspringboot.demo.richlet;
 import java.util.Map;
 
 import org.zkoss.xel.VariableResolver;
